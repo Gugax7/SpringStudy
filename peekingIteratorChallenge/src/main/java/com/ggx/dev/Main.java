@@ -2,6 +2,7 @@ package com.ggx.dev;
 
 import com.ggx.dev.configs.AppConfig;
 import com.ggx.dev.services.Handler;
+import jakarta.annotation.PostConstruct;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
