@@ -1,0 +1,34 @@
+[
+  {
+    "type": 0,
+    "date": "2025-03-01",
+    "amount": 50.00,
+    "category": "Groceries",
+    "account": "Credit Card",
+    "note": "Bought vegetables and fruits"
+  },
+  {
+    "type": 1,
+    "date": "2025-03-02",
+    "amount": 2000.00,
+    "category": "Salary",
+    "account": "Bank Account",
+    "note": "Monthly salary received"
+  },
+  {
+    "type": 0,
+    "date": "2025-03-03",
+    "amount": 100.00,
+    "category": "Utilities",
+    "account": "Bank Account",
+    "note": "Paid electricity bill"
+  },
+  {
+    "type": 0,
+    "date": "2025-03-04",
+    "amount": 20.00,
+    "category": "Transport",
+    "account": "Cash",
+    "note": "Bus fare"
+  }
+]
